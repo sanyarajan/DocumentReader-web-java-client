@@ -26,7 +26,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.regula.documentreader:webclient:5.+")
+    implementation("com.regula.documentreader:webclient:6.+")
 }
 ```
 
